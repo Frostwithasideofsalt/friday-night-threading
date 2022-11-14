@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas xmlns="http://www.w3.org/1999/xhtml" imagepath="tux.png">
+	<SubTexture name="creep0000" x="0" y="0" width="236" height="282"></SubTexture>
+	<SubTexture name="tux0000" x="237" y="0" width="236" height="282"></SubTexture>
+</TextureAtlas>

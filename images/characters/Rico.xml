@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Rico.png"><SubTexture name="Rico idle0000" x="29" y="0" width="29" height="53" frameX="-15" frameY="-28" frameWidth="58" frameHeight="85" />
+<SubTexture name="Rico down0000" x="114" y="0" width="29" height="51" frameX="-15" frameY="-30" frameWidth="58" frameHeight="85" />
+<SubTexture name="Rico down0001" x="85" y="54" width="29" height="52" frameX="-15" frameY="-29" frameWidth="58" frameHeight="85" />
+<SubTexture name="Rico left0000" x="58" y="0" width="28" height="53" frameX="-14" frameY="-28" frameWidth="58" frameHeight="85" />
+<SubTexture name="Rico left0001" x="86" y="0" width="28" height="53" frameX="-15" frameY="-28" frameWidth="58" frameHeight="85" />
+<SubTexture name="Rico right0000" x="0" y="54" width="28" height="53" frameX="-18" frameY="-28" frameWidth="58" frameHeight="85" />
+<SubTexture name="Rico right0001" x="28" y="54" width="28" height="53" frameX="-17" frameY="-28" frameWidth="58" frameHeight="85" />
+<SubTexture name="Rico up0000" x="0" y="0" width="29" height="54" frameX="-16" frameY="-27" frameWidth="58" frameHeight="85" />
+<SubTexture name="Rico up0001" x="56" y="54" width="29" height="53" frameX="-16" frameY="-28" frameWidth="58" frameHeight="85" />
+</TextureAtlas>

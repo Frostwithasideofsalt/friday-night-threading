@@ -1,0 +1,59 @@
+{
+	"storyName": "musik",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "pac",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Real",
+			"Rod",
+			[
+				69,
+				40,
+				20
+			]
+		],
+		[
+			"KiyanVSkiyan",
+			"kiyanGD",
+			[
+				69,
+				40,
+				20
+			]
+		],
+		[
+			"agent-orange",
+			"fard",
+			[
+				69,
+				40,
+				20
+			]
+		],
+				[
+			"donut",
+			"yeti",
+			[
+				69,
+				40,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "pac",
+	"hiddenUntilUnlocked": false
+}

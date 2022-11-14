@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas xmlns="http://www.w3.org/1999/xhtml" imagepath="yeti.png">
+	<SubTexture name="yeti0000" x="0" y="168" width="185" height="167"></SubTexture>
+	<SubTexture name="WOOHOO0000" x="186" y="0" width="272" height="170"></SubTexture>
+	<SubTexture name="angee0000" x="0" y="0" width="185" height="167"></SubTexture>
+</TextureAtlas>

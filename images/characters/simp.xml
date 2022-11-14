@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="simp.png"><SubTexture name="simp idle0000" x="295" y="0" width="185" height="492" frameX="-61" frameY="-4" frameWidth="300" frameHeight="500" />
+<SubTexture name="simp note0000" x="0" y="0" width="295" height="496" frameX="0" frameY="0" frameWidth="300" frameHeight="500" />
+</TextureAtlas>

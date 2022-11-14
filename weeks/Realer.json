@@ -1,0 +1,32 @@
+{
+	"storyName": "?????",
+	"difficulties": "hard, real",
+	"hideFreeplay": true,
+	"weekBackground": "jjjjjjjjjjjjjj",
+	"weekBefore": "week6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Realer",
+			"none",
+			[
+				69,
+				40,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "pac"
+}

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Rod.png"><SubTexture name="Rod idle0000" x="89" y="84" width="42" height="82" frameX="-16" frameY="-9" frameWidth="66" frameHeight="94" />
+<SubTexture name="Rod idle0001" x="54" y="0" width="44" height="83" frameX="-15" frameY="-8" frameWidth="66" frameHeight="94" />
+<SubTexture name="Rod idle0002" x="98" y="0" width="45" height="83" frameX="-14" frameY="-8" frameWidth="66" frameHeight="94" />
+<SubTexture name="Rod right0000" x="131" y="84" width="49" height="82" frameX="-16" frameY="-9" frameWidth="66" frameHeight="94" />
+<SubTexture name="Rod right0001" x="196" y="0" width="47" height="82" frameX="-15" frameY="-9" frameWidth="66" frameHeight="94" />
+<SubTexture name="Rod down0000" x="0" y="167" width="47" height="76" frameX="-14" frameY="-15" frameWidth="66" frameHeight="94" />
+<SubTexture name="Rod down0001" x="196" y="82" width="47" height="77" frameX="-14" frameY="-14" frameWidth="66" frameHeight="94" />
+<SubTexture name="Rod up0000" x="0" y="0" width="54" height="84" frameX="-5" frameY="-7" frameWidth="66" frameHeight="94" />
+<SubTexture name="Rod up0001" x="143" y="0" width="53" height="83" frameX="-6" frameY="-8" frameWidth="66" frameHeight="94" />
+<SubTexture name="Rod left0000" x="0" y="84" width="45" height="83" frameX="-12" frameY="-8" frameWidth="66" frameHeight="94" />
+<SubTexture name="Rod left0001" x="45" y="84" width="44" height="83" frameX="-13" frameY="-8" frameWidth="66" frameHeight="94" />
+</TextureAtlas>
