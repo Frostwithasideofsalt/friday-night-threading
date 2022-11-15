@@ -3,18 +3,14 @@
 	"difficulties": "hard",
 	"hideFreeplay": false,
 	"weekBackground": "pac",
+	"weekBefore": "week6",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "week6",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Real",
@@ -43,7 +39,7 @@
 				20
 			]
 		],
-				[
+		[
 			"donut",
 			"yeti",
 			[
@@ -53,7 +49,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "pac",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "musik"
 }

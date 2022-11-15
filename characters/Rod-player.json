@@ -20,7 +20,7 @@
 			"fps": 12,
 			"anim": "singLEFT",
 			"loop": false,
-			"name": "Rod left"
+			"name": "Rod right"
 		},
 		{
 			"offsets": [
@@ -31,7 +31,7 @@
 			"fps": 12,
 			"anim": "singRIGHT",
 			"loop": false,
-			"name": "Rod right"
+			"name": "Rod left"
 		},
 		{
 			"offsets": [

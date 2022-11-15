@@ -175,9 +175,9 @@
 	"healthicon": "tuxstare",
 	"flip_x": true,
 	"healthbar_colors": [
-		42,
-		42,
-		42
+		241,
+		197,
+		62
 	],
 	"camera_position": [
 		0,

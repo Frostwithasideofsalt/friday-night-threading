@@ -3,13 +3,13 @@
 		{
 			"offsets": [
 				0,
-				-50
+				0
 			],
 			"indices": [],
-			"fps": 8,
+			"fps": 12,
 			"anim": "idle",
 			"loop": false,
-			"name": "simp idle"
+			"name": "kiyan idle"
 		},
 		{
 			"offsets": [
@@ -20,7 +20,7 @@
 			"fps": 8,
 			"anim": "singDOWN",
 			"loop": false,
-			"name": "simp note"
+			"name": "kiyan down"
 		},
 		{
 			"offsets": [
@@ -28,10 +28,10 @@
 				0
 			],
 			"indices": [],
-			"fps": 8,
+			"fps": 12,
 			"anim": "singLEFT",
 			"loop": false,
-			"name": "simp note"
+			"name": "kiyan right"
 		},
 		{
 			"offsets": [
@@ -39,10 +39,10 @@
 				0
 			],
 			"indices": [],
-			"fps": 8,
+			"fps": 12,
 			"anim": "singRIGHT",
 			"loop": false,
-			"name": "simp note"
+			"name": "kiyan left"
 		},
 		{
 			"offsets": [
@@ -50,17 +50,17 @@
 				0
 			],
 			"indices": [],
-			"fps": 8,
+			"fps": 12,
 			"anim": "singUP",
 			"loop": false,
-			"name": "simp note"
+			"name": "kiyan up"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/simp",
+	"image": "characters/kiyan",
 	"position": [
-		0,
-		0
+		275,
+		475
 	],
 	"healthicon": "kiyan",
 	"flip_x": false,
@@ -71,8 +71,8 @@
 	],
 	"camera_position": [
 		0,
-		0
+		-250
 	],
 	"sing_duration": 4,
-	"scale":1
+	"scale":2
 }

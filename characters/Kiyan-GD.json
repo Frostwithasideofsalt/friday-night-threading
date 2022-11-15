@@ -3,13 +3,13 @@
 		{
 			"offsets": [
 				0,
-				-50
+				0
 			],
 			"indices": [],
 			"fps": 8,
 			"anim": "idle",
 			"loop": false,
-			"name": "simp idle"
+			"name": "kiyanGD idle"
 		},
 		{
 			"offsets": [
@@ -20,7 +20,7 @@
 			"fps": 8,
 			"anim": "singDOWN",
 			"loop": false,
-			"name": "simp note"
+			"name": "kiyanGD down"
 		},
 		{
 			"offsets": [
@@ -31,7 +31,7 @@
 			"fps": 8,
 			"anim": "singLEFT",
 			"loop": false,
-			"name": "simp note"
+			"name": "kiyanGD left"
 		},
 		{
 			"offsets": [
@@ -42,7 +42,7 @@
 			"fps": 8,
 			"anim": "singRIGHT",
 			"loop": false,
-			"name": "simp note"
+			"name": "kiyanGD right"
 		},
 		{
 			"offsets": [
@@ -53,14 +53,14 @@
 			"fps": 8,
 			"anim": "singUP",
 			"loop": false,
-			"name": "simp note"
+			"name": "kiyanGD up"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/simp",
+	"image": "characters/kiyanGD",
 	"position": [
-		0,
-		0
+		450,
+		475
 	],
 	"healthicon": "kiyanGD",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		0
 	],
 	"camera_position": [
-		0,
-		0
+		-250,
+		-250
 	],
 	"sing_duration": 4,
-	"scale":1
+	"scale":2
 }
