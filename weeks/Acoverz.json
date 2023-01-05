@@ -1,0 +1,41 @@
+{
+	"storyName": "covers",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "cow",
+	"weekBefore": "orang",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"donut",
+			"yeti",
+			[
+				80,
+				30,
+				90
+			]
+		],
+		[
+			"roadhouse",
+			"marqies",
+			[
+				80,
+				30,
+				90
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "musik"
+}

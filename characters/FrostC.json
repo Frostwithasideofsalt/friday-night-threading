@@ -65,9 +65,9 @@
 	"healthicon": "FrostC",
 	"flip_x": true,
 	"healthbar_colors": [
-		203,
-		200,
-		233
+		0,
+		141,
+		255
 	],
 	"camera_position": [
 		0,

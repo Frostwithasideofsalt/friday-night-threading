@@ -2,47 +2,14 @@
 	"animations": [
 		{
 			"offsets": [
-				29,
-				8
+				-6,
+				2
 			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
+			"fps": 12,
+			"anim": "idle",
 			"indices": [],
-			"name": "LEFT"
-		},
-		{
-			"offsets": [
-				21,
-				-442
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "DOWN"
-		},
-		{
-			"offsets": [
-				45,
-				3
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "UP"
-		},
-		{
-			"offsets": [
-				-2,
-				4
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "RIGHT"
+			"name": "marqies2 idle"
 		},
 		{
 			"offsets": [
@@ -50,29 +17,62 @@
 				0
 			],
 			"loop": false,
-			"fps": 24,
-			"anim": "idle",
+			"fps": 12,
+			"anim": "singDOWN",
 			"indices": [],
-			"name": "IDLE"
+			"name": "marqies2 down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "marqies2 left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "marqies2 right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "marqies2 up"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/PotatoPerson",
+	"image": "characters/marqies2",
 	"position": [
-		20,
-		130
+		-450,
+		30
 	],
-	"healthicon": "icon-piss",
+	"healthicon": "marqies",
 	"flip_x": false,
 	"healthbar_colors": [
-		54,
-		16,
-		74
+		161,
+		31,
+		155
 	],
 	"camera_position": [
-		-200,
-		100
+		-180,
+		90
 	],
-	"sing_duration": 6.1,
+	"sing_duration": 4,
 	"scale": 1
 }

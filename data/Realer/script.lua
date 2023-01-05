@@ -1,8 +1,13 @@
 function opponentNoteHit()
     health = getProperty('health')
-    if getProperty('health') > 0.02 then
-        setProperty('health', health- 0.02);
+    if getProperty('health') > 0.03 then
+        setProperty('health', health- 0.03);
     end
+end
+
+function onBeatHit()
+	doTweenX('hrrrr', 'iconP2.scale', 2, 0.5, 'circOut')
+	doTweenX('hrrrrr', 'iconP1.scale', 2, 0.5, 'circOut')
 end
 
 

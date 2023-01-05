@@ -9,7 +9,7 @@
 			"fps": 12,
 			"anim": "idle",
 			"indices": [],
-			"name": "marqies2 idle"
+			"name": "Marqies idle"
 		},
 		{
 			"offsets": [
@@ -20,7 +20,7 @@
 			"fps": 12,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "marqies2 down"
+			"name": "Marqies down"
 		},
 		{
 			"offsets": [
@@ -31,7 +31,7 @@
 			"fps": 12,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "marqies2 left"
+			"name": "Marqies left"
 		},
 		{
 			"offsets": [
@@ -42,7 +42,7 @@
 			"fps": 12,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "marqies2 right"
+			"name": "Marqies right"
 		},
 		{
 			"offsets": [
@@ -53,11 +53,11 @@
 			"fps": 12,
 			"anim": "singUP",
 			"indices": [],
-			"name": "marqies2 up"
+			"name": "Marqies up"
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/marqies2",
+	"no_antialiasing": true,
+	"image": "characters/marqies",
 	"position": [
 		-450,
 		30
@@ -65,14 +65,14 @@
 	"healthicon": "marqies",
 	"flip_x": false,
 	"healthbar_colors": [
-		151,
-		130,
-		231
+		161,
+		31,
+		155
 	],
 	"camera_position": [
 		-180,
 		90
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 3
 }

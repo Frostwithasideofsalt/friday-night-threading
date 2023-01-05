@@ -1,0 +1,32 @@
+{
+	"storyName": "Disccord!!!!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "fart",
+	"weekBefore": "finland",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"agent-orange",
+			"fard",
+			[
+				255,
+				150,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "discord"
+}

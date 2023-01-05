@@ -175,9 +175,9 @@
 	"healthicon": "yeti",
 	"flip_x": true,
 	"healthbar_colors": [
-		39,
-		151,
-		210
+		0,
+		255,
+		255
 	],
 	"camera_position": [
 		0,

@@ -1,5 +1,5 @@
 {
-	"storyName": "musik",
+	"storyName": "finland",
 	"difficulties": "hard",
 	"hideFreeplay": false,
 	"weekBackground": "pac",
@@ -24,24 +24,6 @@
 		[
 			"KiyanVSkiyan",
 			"kiyanGD",
-			[
-				69,
-				40,
-				20
-			]
-		],
-		[
-			"agent-orange",
-			"fard",
-			[
-				69,
-				40,
-				20
-			]
-		],
-		[
-			"donut",
-			"yeti",
 			[
 				69,
 				40,
