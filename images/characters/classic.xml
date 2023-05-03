@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="classic.png"><SubTexture name="classic idle0000" x="13" y="48" width="13" height="18" frameX="-11" frameY="-11" frameWidth="33" frameHeight="37" />
+<SubTexture name="classic idle0001" x="54" y="23" width="13" height="22" frameX="-11" frameY="-7" frameWidth="33" frameHeight="37" />
+<SubTexture name="classic idle0002" x="26" y="0" width="13" height="23" frameX="-11" frameY="-6" frameWidth="33" frameHeight="37" />
+<SubTexture name="classic right0000" x="39" y="0" width="15" height="23" frameX="-13" frameY="-6" frameWidth="33" frameHeight="37" />
+<SubTexture name="classic right0001" x="0" y="25" width="13" height="23" frameX="-13" frameY="-6" frameWidth="33" frameHeight="37" />
+<SubTexture name="classic left0000" x="13" y="25" width="17" height="23" frameX="-4" frameY="-6" frameWidth="33" frameHeight="37" />
+<SubTexture name="classic left0001" x="30" y="25" width="16" height="23" frameX="-6" frameY="-6" frameWidth="33" frameHeight="37" />
+<SubTexture name="classic up0000" x="0" y="0" width="13" height="25" frameX="-11" frameY="-4" frameWidth="33" frameHeight="37" />
+<SubTexture name="classic up0001" x="13" y="0" width="13" height="24" frameX="-11" frameY="-5" frameWidth="33" frameHeight="37" />
+<SubTexture name="classic up0002" x="54" y="0" width="13" height="23" frameX="-11" frameY="-6" frameWidth="33" frameHeight="37" />
+<SubTexture name="classic down0000" x="0" y="48" width="13" height="19" frameX="-11" frameY="-10" frameWidth="33" frameHeight="37" />
+<SubTexture name="classic down0001" x="67" y="22" width="13" height="20" frameX="-11" frameY="-9" frameWidth="33" frameHeight="37" />
+<SubTexture name="classic down0002" x="67" y="0" width="13" height="22" frameX="-11" frameY="-7" frameWidth="33" frameHeight="37" />
+</TextureAtlas>

@@ -15,8 +15,8 @@
 	"no_antialiasing": false,
 	"image": "characters/nothing",
 	"position": [
-		-120,
-		120
+		0,
+		0
 	],
 	"healthicon": "none",
 	"flip_x": false,
@@ -27,7 +27,7 @@
 	],
 	"camera_position": [
 		0,
-		150
+		0
 	],
 	"sing_duration": 4,
 	"scale": 1

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dudekid.png"><SubTexture name="dudekid idle0000" x="0" y="0" width="38" height="64" frameX="0" frameY="0" frameWidth="42" frameHeight="64" />
+<SubTexture name="dudekid right0000" x="38" y="0" width="42" height="64" frameX="0" frameY="0" frameWidth="42" frameHeight="64" />
+<SubTexture name="dudekid right0001" x="80" y="0" width="42" height="64" frameX="0" frameY="0" frameWidth="42" frameHeight="64" />
+<SubTexture name="dudekid down0000" x="76" y="64" width="38" height="63" frameX="0" frameY="-1" frameWidth="42" frameHeight="64" />
+<SubTexture name="dudekid down0001" x="114" y="64" width="38" height="63" frameX="0" frameY="-1" frameWidth="42" frameHeight="64" />
+<SubTexture name="dudekid left0000" x="122" y="0" width="38" height="64" frameX="0" frameY="0" frameWidth="42" frameHeight="64" />
+<SubTexture name="dudekid left0001" x="0" y="64" width="38" height="64" frameX="0" frameY="0" frameWidth="42" frameHeight="64" />
+<SubTexture name="dudekid up0000" x="38" y="64" width="38" height="64" frameX="0" frameY="0" frameWidth="42" frameHeight="64" />
+<SubTexture name="dudekid up0001" x="160" y="0" width="38" height="63" frameX="0" frameY="-1" frameWidth="42" frameHeight="64" />
+</TextureAtlas>

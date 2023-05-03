@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				2
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "dudekid idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dudekid down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dudekid left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dudekid right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dudekid up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dudekid",
+	"position": [
+		-1000,
+		-50
+	],
+	"healthicon": "dude",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		47
+	],
+	"camera_position": [
+		-130,
+		-460
+	],
+	"sing_duration": 5,
+	"scale": 12
+}

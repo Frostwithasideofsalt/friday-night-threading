@@ -1,0 +1,32 @@
+{
+	"storyName": "I am expert in my teeth",
+	"difficulties": "hard",
+	"hideFreeplay": true,
+	"weekBackground": "jjjjjj",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "furb1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"expert",
+			"ogmah",
+			[
+				0,
+				255,
+				131
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "musik",
+	"hiddenUntilUnlocked": false
+}

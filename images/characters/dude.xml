@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dude.png"><SubTexture name="dude left0000" x="0" y="3165" width="950" height="861" frameX="-1026" frameY="-1139" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="dude left0001" x="857" y="1922" width="888" height="1242" frameX="-830" frameY="-758" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="dude left0002" x="2259" y="0" width="728" height="1265" frameX="-698" frameY="-735" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="dude right0000" x="0" y="1922" width="857" height="1243" frameX="-176" frameY="-750" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="dude right0001" x="1745" y="1922" width="856" height="1242" frameX="-177" frameY="-750" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="dude right0002" x="2601" y="1922" width="738" height="1238" frameX="-411" frameY="-748" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="dude down0000" x="1822" y="3165" width="1018" height="523" frameX="-417" frameY="-1477" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="dude down0001" x="950" y="3165" width="872" height="758" frameX="-482" frameY="-1242" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="dude down0002" x="3715" y="0" width="720" height="1224" frameX="-544" frameY="-776" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="dude up0000" x="0" y="0" width="907" height="1922" frameX="-605" frameY="-78" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="dude up0001" x="907" y="0" width="1352" height="1602" frameX="-389" frameY="-398" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="dude idle0000" x="2987" y="0" width="728" height="1265" frameX="-698" frameY="-735" frameWidth="2000" frameHeight="2000" />
+</TextureAtlas>

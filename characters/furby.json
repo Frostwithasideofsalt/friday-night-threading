@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 69,
+			"anim": "idle",
+			"loop": false,
+			"name": "furbu idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "furbu down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "furbu left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "furbu right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "furbu glitch"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singUP",
+			"loop": false,
+			"name": "furbu up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/furbu",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "furb",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-375,
+		0
+	],
+	"sing_duration": 4,
+	"scale":6
+}

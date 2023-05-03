@@ -2,7 +2,7 @@
 	"song": {
 		"sectionLengths": [],
 		"player1": "bf",
-		"player2": "marqies",
+		"player2": "marqies-peter",
 		"notes": [
 			{
 				"sectionNotes": [],
@@ -2663,6 +2663,11 @@
 						63419.1176470589,
 						3,
 						0
+					],
+					[
+						61764.705882353,
+						0,
+						110.294117647059
 					]
 				],
 				"typeOfSection": 0,
@@ -3397,11 +3402,6 @@
 					[
 						82720.5882352941,
 						1,
-						110.294117647059
-					],
-					[
-						82720.5882352941,
-						5,
 						110.294117647059
 					],
 					[
@@ -6262,6 +6262,76 @@
 				"bpm": 136
 			},
 			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 136,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 136
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 136
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 136,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 136,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 136
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 136
+			},
+			{
 				"gfSection": false,
 				"altAnim": false,
 				"typeOfSection": 0,
@@ -6280,7 +6350,7 @@
 					[
 						"Add Camera Zoom",
 						"1",
-						"1"
+						"0.03"
 					]
 				]
 			],
@@ -6384,7 +6454,7 @@
 		"song": "roadhouse",
 		"validScore": true,
 		"arrowSkin": "",
-		"stage": "awesome",
+		"stage": "peter",
 		"needsVoices": true,
 		"sections": 0,
 		"speed": 3.3,

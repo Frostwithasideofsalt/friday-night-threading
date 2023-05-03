@@ -4,7 +4,7 @@ function onCreate()
 		--Check if the note is an antimine
 		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'antimine' then
 			setPropertyFromGroup('unspawnNotes', i, 'texture', 'antimine_assets'); --Change texture
-			setPropertyFromGroup('unspawnNotes', i, 'hitHealth', '0.023'); --Default value is: 0.023, health gained on hit
+			setPropertyFromGroup('unspawnNotes', i, 'hitHealth', '0.000'); --Default value is: 0.023, health gained on hit
 			setPropertyFromGroup('unspawnNotes', i, 'missHealth', '9999999'); --Default value is: 0.0475, health lost on miss
 
 			if getPropertyFromGroup('unspawnNotes', i, 'mustPress') then --Doesn't let Dad/Opponent notes get ignored

@@ -5,10 +5,6 @@ function onCreate()
     setProperty("debugKeysCharacter", nil)-- disables 8
 end
 
-function onCreatePost()
-    debugPrint(songName)
-    debugPrint(difficulty, " : ", difficultyName)
-end
 
 function onUpdate()
     if keyboardJustPressed("SEVEN") or keyboardJustPressed("EIGHT") then

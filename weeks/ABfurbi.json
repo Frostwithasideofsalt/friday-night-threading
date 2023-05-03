@@ -1,0 +1,50 @@
+{
+	"storyName": "Rodirod's daydream",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "fur",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Evolution",
+			"classic",
+			[
+				182,
+				201,
+				182
+			]
+		],
+		[
+			"frb1",
+			"furb",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"Furby-trouble",
+			"furb2",
+			[
+				243,
+				9,
+				9
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "furby"
+}

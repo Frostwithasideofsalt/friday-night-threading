@@ -1,9 +1,9 @@
 {
-	"storyName": "covers",
+	"storyName": "I love covers so high effort and not padding at all",
 	"difficulties": "hard",
 	"hideFreeplay": false,
 	"weekBackground": "cow",
-	"weekBefore": "orang",
+	"weekBefore": "furb1",
 	"freeplayColor": [
 		146,
 		113,
@@ -17,17 +17,17 @@
 			"yeti",
 			[
 				80,
-				30,
-				90
+				80,
+				80
 			]
 		],
 		[
 			"roadhouse",
-			"marqies",
+			"marqies-peter",
 			[
 				80,
-				30,
-				90
+				80,
+				80
 			]
 		]
 	],

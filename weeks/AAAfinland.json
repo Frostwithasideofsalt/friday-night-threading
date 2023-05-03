@@ -1,5 +1,5 @@
 {
-	"storyName": "finland",
+	"storyName": "guys this is actually what finland looks like",
 	"difficulties": "hard",
 	"hideFreeplay": false,
 	"weekBackground": "pac",
@@ -16,8 +16,8 @@
 			"Real",
 			"Rod",
 			[
-				69,
-				40,
+				68,
+				20,
 				20
 			]
 		],
@@ -25,9 +25,9 @@
 			"KiyanVSkiyan",
 			"kiyanGD",
 			[
-				69,
-				40,
-				20
+				26,
+				0,
+				255
 			]
 		]
 	],

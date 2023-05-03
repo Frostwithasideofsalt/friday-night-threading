@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="furby.png"><SubTexture name="furby left0000" x="50" y="0" width="24" height="33" frameX="-1" frameY="-5" frameWidth="34" frameHeight="40" />
+<SubTexture name="furby left0001" x="30" y="35" width="27" height="32" frameX="-3" frameY="-6" frameWidth="34" frameHeight="40" />
+<SubTexture name="furby right0000" x="26" y="0" width="24" height="34" frameX="-8" frameY="-4" frameWidth="34" frameHeight="40" />
+<SubTexture name="furby right0001" x="74" y="0" width="27" height="32" frameX="-3" frameY="-6" frameWidth="34" frameHeight="40" />
+<SubTexture name="furby down0000" x="64" y="68" width="34" height="27" frameX="0" frameY="-11" frameWidth="34" frameHeight="40" />
+<SubTexture name="furby down0001" x="32" y="68" width="32" height="30" frameX="-1" frameY="-8" frameWidth="34" frameHeight="40" />
+<SubTexture name="furby up0000" x="0" y="0" width="26" height="35" frameX="-4" frameY="-3" frameWidth="34" frameHeight="40" />
+<SubTexture name="furby up0001" x="0" y="35" width="30" height="33" frameX="-2" frameY="-5" frameWidth="34" frameHeight="40" />
+<SubTexture name="furby idle0000" x="0" y="68" width="32" height="31" frameX="-1" frameY="-7" frameWidth="34" frameHeight="40" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				2
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "marquies2 idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "marquies2 down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "marquies2 left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "marquies2 right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "marquies2 up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/marquies2",
+	"position": [
+		-950,
+		0
+	],
+	"healthicon": "marqies-peter",
+	"flip_x": false,
+	"healthbar_colors": [
+		124,
+		208,
+		172
+	],
+	"camera_position": [
+		-600,
+		-525
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

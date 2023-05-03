@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="unknown2.png"><SubTexture name="unknown2 idle0000" x="0" y="49" width="14" height="22" frameX="-7" frameY="-10" frameWidth="29" frameHeight="41" />
+<SubTexture name="unknown2 idle0001" x="43" y="25" width="15" height="23" frameX="-7" frameY="-9" frameWidth="29" frameHeight="41" />
+<SubTexture name="unknown2 idle0002" x="16" y="0" width="15" height="24" frameX="-7" frameY="-8" frameWidth="29" frameHeight="41" />
+<SubTexture name="unknown2 left0000" x="31" y="0" width="17" height="24" frameX="-3" frameY="-8" frameWidth="29" frameHeight="41" />
+<SubTexture name="unknown2 left0001" x="48" y="0" width="16" height="24" frameX="-5" frameY="-8" frameWidth="29" frameHeight="41" />
+<SubTexture name="unknown2 right0000" x="0" y="25" width="14" height="24" frameX="-9" frameY="-8" frameWidth="29" frameHeight="41" />
+<SubTexture name="unknown2 right0001" x="14" y="25" width="14" height="24" frameX="-8" frameY="-8" frameWidth="29" frameHeight="41" />
+<SubTexture name="unknown2 up0000" x="0" y="0" width="16" height="25" frameX="-5" frameY="-7" frameWidth="29" frameHeight="41" />
+<SubTexture name="unknown2 up0001" x="28" y="25" width="15" height="24" frameX="-6" frameY="-8" frameWidth="29" frameHeight="41" />
+<SubTexture name="unknown2 down0000" x="64" y="0" width="16" height="23" frameX="-4" frameY="-9" frameWidth="29" frameHeight="41" />
+<SubTexture name="unknown2 down0001" x="64" y="23" width="16" height="23" frameX="-5" frameY="-9" frameWidth="29" frameHeight="41" />
+</TextureAtlas>

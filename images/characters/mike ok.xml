@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mike ok.png"><SubTexture name="mike ok idle0000" x="0" y="0" width="380" height="678" frameX="-525" frameY="-7" frameWidth="1354" frameHeight="712" />
+<SubTexture name="mike ok idle0001" x="803" y="0" width="226" height="528" frameX="-582" frameY="-81" frameWidth="1354" frameHeight="712" />
+<SubTexture name="mike ok idle0002" x="573" y="0" width="230" height="536" frameX="-578" frameY="-86" frameWidth="1354" frameHeight="712" />
+<SubTexture name="mike ok idle0003" x="380" y="0" width="193" height="539" frameX="-601" frameY="-83" frameWidth="1354" frameHeight="712" />
+</TextureAtlas>

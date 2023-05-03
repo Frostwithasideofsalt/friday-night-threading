@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Explain.png"><SubTexture name="Explain idle0000" x="0" y="0" width="120" height="146" frameX="0" frameY="0" frameWidth="120" frameHeight="146" />
+<SubTexture name="Explain idle0001" x="120" y="0" width="120" height="146" frameX="0" frameY="0" frameWidth="120" frameHeight="146" />
+<SubTexture name="Explain idle0002" x="240" y="0" width="120" height="146" frameX="0" frameY="0" frameWidth="120" frameHeight="146" />
+<SubTexture name="Explain idle0003" x="0" y="146" width="120" height="146" frameX="0" frameY="0" frameWidth="120" frameHeight="146" />
+<SubTexture name="Explain idle0004" x="120" y="146" width="120" height="146" frameX="0" frameY="0" frameWidth="120" frameHeight="146" />
+<SubTexture name="Explain idle0005" x="240" y="146" width="120" height="146" frameX="0" frameY="0" frameWidth="120" frameHeight="146" />
+<SubTexture name="Explain idle0006" x="360" y="0" width="120" height="146" frameX="0" frameY="0" frameWidth="120" frameHeight="146" />
+<SubTexture name="Explain idle0007" x="360" y="146" width="120" height="146" frameX="0" frameY="0" frameWidth="120" frameHeight="146" />
+<SubTexture name="Explain idle0008" x="0" y="292" width="120" height="146" frameX="0" frameY="0" frameWidth="120" frameHeight="146" />
+<SubTexture name="Explain idle0009" x="120" y="292" width="120" height="146" frameX="0" frameY="0" frameWidth="120" frameHeight="146" />
+</TextureAtlas>

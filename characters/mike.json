@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "idle",
+			"loop": true,
+			"name": "mike ok idle"
+		},
+		{
+			"offsets": [
+				0,
+				-100
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "mike ok idle"
+		},
+		{
+			"offsets": [
+				0,
+				100
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singUP",
+			"loop": true,
+			"name": "mike ok idle"
+		},
+		{
+			"offsets": [
+				-100,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "mike ok idle"
+		},
+		{
+			"offsets": [
+				100,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "mike ok idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mike ok",
+	"position": [
+		-200,
+		0
+	],
+	"healthicon": "mike",
+	"flip_x": true,
+	"healthbar_colors": [
+		106,
+		11,
+		11
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale":2
+}

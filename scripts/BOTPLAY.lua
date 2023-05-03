@@ -16,3 +16,17 @@ function onUpdate()
 		triggerEvent("PresenceUpdate")
 	end
 end
+
+function noteHit()
+    if botPlay then
+        playSound("JUICY")
+    end
+end
+
+function opponentNoteHit()
+    noteHit()
+end
+
+function goodNoteHit()
+    noteHit()
+end
